@@ -1,0 +1,9 @@
+Ravni uvajanja ePoslovanja [4]	"- poslovna strategija- poslovni model- poslovni procesi- informacijske rešitve"
+Ravni uvajanja ePoslovanja - poslovna strategija [2]	"- skupek načrtov in ciljev, ki jih mora uveljaviti organizacija, da bo dosegla zastavljene cilje- imamo lahko notranje ali zunanje izvajanje"
+Ravni uvajanja ePoslovanja - poslovni model [2]	"- abstrakcija poslovanja organizacije - cilj zagotavljanje dodane vrednosti- model za npr. spletno trgovino, online tržnico, virtualno skupnost"
+Ravni uvajanja ePoslovanja - poslovni procesi [2]	"- naročanje, dobava, proizvajanje- to so izvedbeni deli poslovanja"
+Ravni uvajanja ePoslovanja - informacijske rešitve in arhitektura [2]	"- ERP, CRM, SOA, itd- informatizacija poslovanja s sodobnimi koncepti"
+Zakaj podjetje morajo v uvedbo ePoslovanja? [1x6,1x5]	"1) prvi krog pritiska : - dobavitelji- kupci- banke- tekmeci- zaposleni- lastniki2) drugi krog pritiskov : - tehnološki razvoj- ekonomsko okolje- socialno okolje- politično okolje- globalizacija"
+ePoslovanje prenaša nove poslovne modele, ki [2]	"- so gonilna sila pojava novih podjetji- zaradi konkorenčnosti, stare silijo v prenovo"
+Kaj delajo uspešna podjetja? [2]	"- nenehno spreminjajo svojo strategijo in jo prilagajajo trgu- strategijo udejanijo s načrtovanjem in spremembo poslovnega modela- poslovni model uporabijo za doseganje tržnega razlikovanja in oblikovanje konkurenčne prednosti"
+Cilj politike okoli denarja	Da denar kroži

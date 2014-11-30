@@ -1,0 +1,10 @@
+Standarda [2]	"- ebXML- eSlog"
+ebXML - kaj je to? [4]	"Modularni nabor standardov za - izmenjavo poslovnih sporočil- obvladovanje trgovanja- posredovanje podatkov na skupni način- določitev registra poslovnih procesov"
+ebXML - cilj [2]	"- vzpostavitev infrastrukture za e-poslovanje- osnova XML tehnologija (interoperabilnost, varnost)"
+ebXML - nadgradnja česa	EDI
+ebXML - standardizirano	2004, ISO 15000
+eSlog - kdo je razvil standard	GZS
+eSlog - podprti dokumenti [4]	"- naročilo- potrditev naročila- dobavnica- račun in kontrolni dokument - povratnica"
+eSlog - kaj zajema in kaj ne	"- zajema specifične dokumente- ne določa procesa izmenjave (jih mora postaviti organizacija sama - veliko dela)"
+eSlog - naslednjik	e-Slog BMS ; standard BMS (Business Massage Standards)
+Prometni dokument	katerikoli dokument, ki prikazuje nek promet artiklov. Recimo račun.

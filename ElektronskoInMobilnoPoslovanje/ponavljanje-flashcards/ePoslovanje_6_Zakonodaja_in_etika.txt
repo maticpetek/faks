@@ -1,0 +1,21 @@
+6.1 ZEPEP	ZEPEP - Zakon o elektronskem poslovanju in elektronskem podpisu
+ZEPEP - sodobna načela [6]	"- nediskriminacija elektronske oblike- odprtost- pogodbene svobode strank- dvojnosti- varstvo osebnih podatkov in varstvo potrošnika- mednarodnega priznavanja"
+"ZEPEP - pomen ""nediskriminacije elektronske oblike"" [2]"	"- papirna in elektronska oblika se smiselno izenači- sodišča in državni organ ne smejo zavreči materiala samo zato, ker je elektronski"
+"ZEPEP - pomen ""odprtosti"" [1]"	- zakon se ne zanaša na eno samo tehnologijo ali sedanje rešitve.
+"ZEPEP - pomen ""pogodbena svoboda strank"" [2]"	"- stranke si lahko izberejo svojo tehnologijo ali standard, da ugodijo zahtevam elektronske poslovanja- niso vezane samo na rešitve, ki so v zakonu"
+"ZEPEP - pomen ""dvojnost"" [3]"	"- uporaba različnih tehnoloških rešitev- imajo lahko različno zanesljivost- imajo različno pravno posledico"
+"ZEPEP - pomen ""varstvo osebnih podatkov in varstvo potrošnika"" [2]"	"- sledenje najnovejšim pravilom, glede varstva osebnih podatkov- varovanje povprečnega potrošnika, ki je brez veliko tehnološkega znanja."
+"ZEPEP - pomen ""mednarodnega priznavanja"" [2]"	"- enostavno medsebojno priznavanje elektronskim dokumentov v mednarodnem gospodarstvu- mednarodno priznanje pravnih učinkov"
+6.2 ZEPT	Zakon o elektronskem poslovanju na trgu
+ZEPT - kaj zlasti ureja?	ureja vprašanje glede sedeža ponudnika IT storitev, komercialne sporočil, elektronskih pogodb in predvsem kodeksov ravnanja.
+ZEPT - kdaj ponudnik lahko pošlje komercialno sporočilo [5]	"- prejemnik se strinja- se jasno vidi, da je komercialno sporočilo- se ve kdo je poslal sporočilo- vsi pogoji za sprejem ponudbo so jasno napisani- vsi pogoji za sodelovanje v nagradnjih igrah so jasno napisani"
+6.3 ZEkom,A,B,C	Zakon o elektronski komunikaciji
+ZEkom - namen [2]	"- zagotavljanje učinkovite konkurence na trgu elektronskih komunikacij- namen pospeševanje razvoja elektronskih komunikacijskih omrežji v SLO"
+6.4 KZ,KZ1	Kazenski zakonik
+KZ - kaj je pomembno za ePoslovanje [3]	"Drugače je to splošni zakonikZa ePoslovanje pomembno :- preprečevanje vdora v IS ali zloraba informacij- varovanje osebnih in občutljivih podatkov- preprečevanje ponarejevanja listin"
+6.5 OZ	Obligacijski zakon [obligacija - dolžnost, obveznost]
+OZ - kaj je pomembno za ePoslovanje [3]	"Je splošni zakon. Pomembno za eP :- načelo poštenja pri sklepanju obligacijskih razmerji- skrb dobrega gospodarja- dolžnost izpolnitve obveznosti"
+6.6 ZVOP	Zakon o varstvu osebnih podatkov
+ZVOP - namen	preprečevanju nezakonitega in neupravičenega posega v zasebnost posameznika
+ZVOP - kaj je pomembno za ePoslovanje [3]	"- v katerih primerih se lahko obdelujejo osebni podatki- viri pridobivanja osebnih podatkov- čas hranjenja osebnih podatkov"
+6.7 ACTA - težave	"- na splošno ne predpisuje nobenih ukrepov (podpisnice se samo zavezujejo, da bodo učinkovito ščitile intelektualno lastnino).- težava : organi pregona bi morali kar se da hitro razkriti kdo je kršil avtorske pravice in to imetniku spletne storitve."

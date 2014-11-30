@@ -1,0 +1,20 @@
+Današnji trend marketinga	Družbena odgovornost in ne maksimiziranje dobička
+Marketing 1.0	product centric - produktno usmerjen
+Marketing 2.0	customer-centric - usmerjeni k stranki
+Marketing 3.0 [3]	"- usmerjen k interesom celotne družbe- celoviti podoba podjetja- stranke postanejo proaktivne pri oblikovanju novih storitev"
+Na čem je slonel Marketing 2.0? [2]	"- Predvsem na IT tehnologiji- nekorektni uporabi IT : umetno ustvarjanje želja in potreb"
+Marketing 3.0 - nekaj značilnosti [2]	"- uporabniki vplivajo na mnenja, želja, poglede drugih strank (forumi)- stranke uživajo v tem, da prikažejo svojo sposobnost in kreativnost pri oblikovanju izdelkov"
+Marketing 3.0 - značilnosti uporabnikov [2]	"- kreativni ljudje so v manjšini, a imajo prevladujočo vlogo v razvoju- stranke ne iščejo več produktov, ki zadovoljujejo njihove potrebe, temveč tudi izziv v uporabi le teh"
+Evolucija marketinga in njene stopnje [3]	"- usmerjenost v prodajo- usmerjenost v razmerje med stranko, da stranka kupuje pri istem podjetju- usmerjenost v vključevanje stranke pri oblikovanju produkta"
+CRM - kratica po SLO	Upravljanje s strankami
+CRM - je čemu logično nadaljevanje	Vsebinske napore na področju skrbi za stranko.
+Glavno vodilo za uveljavno novosti	strah
+Zakaj CRM? [4]	"- podjetjem in zaposlenim zagotovijo enoten in celovit pregled nad vsemi podatki o strankah- pregled nad vso komunikacijo stranke s podjetjem- omogoča odkritje najboljše stranke- zagotoviti zvestobo (najboljše) stranke"
+3. Komponente CRM [1x4 ; 1x5]	"0) stranka1) komunikacija- faks- e-pošta- telefon- splet2) - upravljanje s stiki in računi- prodaja (dodatni artikli, nadgradnje)- Trženje in izpolnjevanje pričakovanj- podpora- Zadrževanje in zvestopa"
+3.1 Razlika med account in contact	"contact - konkretna osebaaccount - ime podjetja Recimo primer Petrol"
+3.2 Prodaja [2]	"- zagotoviti osebju prodaje učinkovita orodja- zagotavljanje hiter dostop do podatkov o strankah (pretekli nakupi, specifične zahteve)"
+3.3 Trženje in izpolnitev pričakovanj [3]	"- omogoča pripravo in izvedbo oglaševalskih akcij ter analiza odzivov nanj- zagotovitev hitrega odziva na zahteve strank- izpolnitev pričakovanj strank"
+3.4 Podpora	osebju zagotoviti ustrezna orodja in podatke.
+3.5 Zadrževanje in zvestoba	- identifikacija in nagrajevanje najzvestejše in najbolj dobičkonosnih strank
+3.5 Zadrževanje in zvestoba - obnašanje strank [4]	"- prodaja izdelki novi stranki - 6x dražje kot obstoječi- nezadovoljna stranka bo svoje neprijetne izkušnje delila s 8-10 ljudmi.- verjetno prodaji novi stranki je 15%. Obstoječi pa 50%- 70% strank bo ponovno poslovalo s podjetjem, če bodo garancijski zahtevki hitro rešeni"
+4. Stopnjevanje odnosa med stranko in podjetjem [1x3,1x3,1x2]	"1) Pridobitev- orodje za nove pridobitev novih strank- stranke zaznavajo podjetje in izdelke kot nadpovprečne2) Stopnjevanje- nadgradnje odnosa s stranko- nadpovprečne storitve- avtomatizacija procesa prodaje- CRM orodje za prodajo dodatnih storitev3) Obdržati- CRM kot orodja, za iskanje in nagrajevanje svojih najboljših strank- s stranko se oblikujejo poseben odnos"

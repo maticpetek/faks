@@ -1,0 +1,14 @@
+ERP - SWOT analiza [4]	"S - Strentghs - PrednostiW - Weaknesses - SlabostiO - Opportunities - PriložnostiT - Threats - Tveganja"
+8.1 Prednosti uvedbe ERP - 1 [5]	"- skupna baza podatkov - integracija podatkov- celovito čiščenje podatkov ob prenosu v novi sistem- standardna rešitev - lahko poslovne procese prilagajamo dobrim praksam- izboljšave na poslovnih procesih- enostavno vzdrževanje in nove verzije"
+8.1 Prednosti uvedbe ERP - 2 [6]	"- skladnost s mednarodnimi standardi- možnost zamenjave sistemskega integratorja- posledica je večja učinkovitost, zato optimizacija kadrov- zanesljivost delovanja- sledljivost poslovanja- boljša podpora revizijam"
+8.2 Slabosti uvedbe ERP - 1 [4]	"- dolgi čas uvajanja- prenova vmesnikov s ostalimi aplikacijami- ključni kadri se morajo veliko angažirati med upeljavo- večja obremenitost ljudi, zaradi dvojnega sistema"
+8.2 Slabosti uvedbe ERP - 2 [5]	"- potreba po spremembi nekaterih ključnih poslovnih procesov- potreba po migraciji podatkov- visoki stroški projekta- dodatni stroški zaradi vzporednega delovanja obeh sistemov- zahtevno prilagajanje uporabnikov na novi sistem"
+8.3 Priložnosti kot posledica uvedbe ERP [3]	"- prenova poslovnih procesov- večja učinkovitost zaradi standardizacije poslovnih procesov- lažji nadzor poslovnih procesov"
+8.4 Tveganja uvedbe ERP - 1 [5]	"- premajhna podpora vodstva- stabilnost poslovanja organizacije- nepripravljenost na projekt- neusklajenost s strategijo podjetja- neustrezno vodenje projekta"
+8.4 Tveganja uvedbe ERP - 2 [5]	"- neustrezna vloga informatikov v podjetju- nizka pripravljenost na spremembe- možnost težav pri vzporednem delovanju obeh sistemov- tehnološko tveganje- uporabniki sistema ne bodo sprejeli"
+9. Razlogi za uvedbo ERP [3]	"- strateški- taktični - operativni"
+9. Razlogi za uvedbo ERP - strateški [3]	"- nova poslovna strategija in dvig uspešnosti- globalno poslovanje in povezljivost z okoljem- strategija upravljanje s strankami (CRM)"
+9. Razlogi za uvedbo ERP - taktični [4]	"- znižanje stroškov- večja učinkovitost poslovnih procesov- večja prilagodljivost poslovnih procesov- integracija poslovnih procesov"
+9. Razlogi za uvedbo ERP - operativni [4]	"- standardizacija in avtomatizacija poslovnih procesov- izboljšati kakovosti informacij- izboljšati uporabnost rešitev- izboljšati tehnološko infrastrukturo"
+Glavni problem dosedanjih sistemov	Med seboj niso povezani
+Finance vs računovodstvo	Finance je bolj cash flow ; računovodstvo je poslovanje po predpisanih zakonih

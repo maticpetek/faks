@@ -1,4 +1,4 @@
-faks
+Elektronsko in Mobilno poslovanje
 ====
 
-Gradivo povezano s FRI faksom
+* Flashcard gradivo za Kolokvij 1

@@ -1,0 +1,10 @@
+Kaj je informacijska družba?	družba, kjer je učinkovitost posameznika in organizacije odvisno od spodobnosti pridobitve pravočasnih informacij in reagiranja na podlagi teh operacij
+Informacijska družba - razmerje [3]	"- podatek- informacija- znanje"
+Metclafov zakon	vrednost omrežja je enaka kvadratu števila v omrežje priključenih uporabnikov
+Inteligentna mobilna naprava [6]	"- povezovanje in izmenjava podatkov z drugimi mobilnimi napravami- možnost zaznavanja in odzivanja- proaktivno delovanje- samo vključitev v omrežje- samo obnove delovanja- samo nadzora"
+Definicija mobilne aplikacije	Izvaja se na mobilni napravi in se izvaja preko več nivojev več-nivojske arhitekture
+Iz česa izhajajo imejitve MA?	izhajajo iz omejitev mobilnih naprav
+Kaj je namembnost MA? [2]	"Omogočiti osnovni nabor storitev v stanju mobilnosti :- M prilagojen nabor storitev- M primeren nabor storitev"
+Arhitekturni modeli mobilnih aplikacij [3]	"- izvirna- spletna- hibridna aplikacija"
+4. Klasični model mobilnih aplikacij [2]	"- zagon na zahtevo- model predpostavlja, da uporabnik ve, kaj potrebuje"
+5. Kontekst [5]	"- kaj so potrebe mobilnega uporabnika- kaj vpliva na potrebe uporabnika- kaj določa potrebe uporabnika- ali so potrebe odvisne od lokacije- kaj še vpliva na potrebe?"

@@ -1,0 +1,13 @@
+Različni konteksti [3]	"- kontekst situacije (lokacija, razmere v okolju)- kontekst informacijskih potreb- kontekst tehnoloških možnosti (tehnološke lastnosti naprave)"
+Katere potrebe so ključne za MA?	informacijske potrebe
+MA in kontekst - ideja	MA naj se sproži sama od sebe glede na kontekst uporabnika
+Kako so posredno določene informacijske potrebe uporabnika? [2]	"- njegove organizacijske vloge- trenutnega stanja v IS"
+Kaj je IoT	vsi objekti imajo enolični identifikator in so virtualno predstavljeni v strukturi interneta
+IoT - any connection	"- time (night, daytime, on the move)- place (on the move, indoors)- thing (all devices)"
+MA - kaj določan kontekst [3]	"- proženje aplikacije- vsebino- način prikaza"
+Izzivi razvoja mobilnih aplikacij [4]	"- inovativna oblika vnosa podatkov- inovativni način prikaza informacij- novi koncept (gibi, govorni ukazi)- varnost (prenos podatkov ; izguba naprave)"
+Evolucija uvajanja mobilnega poslovanja v podjetje [5]	"- obveščanje- možnost pridobivanja informacij- izvajanje transakcij- transformacija (MA normalno poslovanje v podjetju)- infuzija (popolna vključenost, poslovanje brez meja)"
+10. Področja uporabe mobilnih aplikacij [2]	"- direktna informacijska podpora : izvajanje osnovnih dejavnosti- indirektna informacijska podpora : obveščanje in možnost za nadzor"
+Beli in modri ovratniki	"beli : uporabnik ima sam interes za rezultat in išče rešitevmodri : uporabnik želi jasne naloge. In podpora. Drugače sabotaža."
+Vzrok za uvedbo mobilnega poslovanja [2]	"- povratek investicije- ker drugače ne gre"
+MA - tehnološki izzivi [4]	"- varnost podatkov na mobilni napravi- varnost komunikacije- online ali offline- sinhronizacija podatkov"

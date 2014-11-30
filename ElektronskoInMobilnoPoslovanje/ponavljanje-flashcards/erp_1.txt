@@ -1,0 +1,16 @@
+ERP - kratica (EN / SLO) [2]	"ERP - Enterprise Resource PlanningPIS - Poslovni informacijski sistem"
+Značilnosti večjih podjetji [3]	"- geografska razpršenost- širok nabor poslovnih procesov- poslovanje v različnih valutah"
+Večja podjetja - dediščina	raznolika programska oprema, med seboj ni integrirana
+Značilnosti proizvodnjih podjetji [3]	"- kompleksen proces naročanja in nabave- veliko skladišč in lokacij proizvodnje- potreba po planiranju proizvodnje"
+Alternative za ERP [2]	"- nadaljevanje lastnega razvoja obstoječih aplikacij- lasten razvoj novih aplikacij"
+1. Kaj je ERP? [9]	"- skupina modulov programske opreme, ki podpirajo poslovne procese v podjetju- omogoča standardizacijo poslovnih procesov- ima velika večina velikih podjetji- aktualno tudi za mala podjetja- vplivajo na nabavne verige. Velika podjetja od svojih dobaviteljev zahtevajo ERP- so dragi- strukturiran pristop z optimizacijo interne verige doseganja dodane vrednost- spremenili paradigmo IS za velika podjetja"
+2. Definicija in primeri ERP sistemov [2]	"- omogoča izvajanje transakcij na nivoju celotnega podjetja- informacijska podpora planiranju, proizvodnji, prodaji in ostalim poslovnim procesom."
+Tipičnih karakteristik ERP [3]	"- modularno zgrajen- integrirajo večina poslovnih procesov- celotna podatkovna baza, brez podvajanja"
+ERP - še nekaj dejstev [4]	"- podpora več valut- moduli za specifične gospodarske panoge- prilagajanje delovanja brez programiranja- API za potrebe integracije"
+3. Tipični moduli sistema ERP [7]	"- finance in računovodstvo- prodaja- materialno poslovanje- kontroling- proizvodnja- logistika- HRM (osnovni del)"
+Dodatni ERP moduli [2]	"- HRM- CRM"
+4. Kaj pomeni uvajanje ERP iz stališča najboljših praks	Uvajanje ERP posredno pomeni uvajanje najboljših ali preizkušenih praks
+Kakšni modeli obstajajo za posamezno panogo?	referenčni modeli
+Kaj imamo za posamezne gospodarske branže?	Posebne industrijske variante ERP
+Uvedba ERP - vrsti red stroškov [5]	"- prenova poslovnih procesov- programska oprema- prenos podatkov- uvedba sprememb- strojna oprema"
+6.1 Načini prehoda na uporabo ERP sistema [4]	"- prehod v produkcijo- Fazni prehod- Big bang prehod- Vzporedno delovanje"

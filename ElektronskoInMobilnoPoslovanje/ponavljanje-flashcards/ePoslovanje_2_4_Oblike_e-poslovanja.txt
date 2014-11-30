@@ -1,0 +1,5 @@
+Po čem se med seboj razlikujejo oblike e-poslovanja? [3]	"Po akterjih, ki so v to vpleteni :- posamezniki- podjetje- državna uprava"
+Oblike e-Poslovanja [6]	"- B2B : med podjetji. - B2C : podjetje in potrošnik ; npr. aplikacija za podporo prodaje na internetu- B2E : način delovanja v podjetju. - G2G (O2O) : enote v okviru državne uprave- G2C (2 citizen) : med državno upravo in državljani- G2B : med podjetjem in državno upravo."
+Katera oblika najbolj poveča učinkovitost med vsemi akterji?	B2B
+Prednosti G2C in G2B [1]	- pomembno prispeva k splošni učinkovitosti družbe
+Osnovni koncepti e-poslovanja so [5]	"1) ljudje - prodajalci, kupci, posredniki2) zakonodaja - zakoni in predpisi, določajo delo z ele. dokumenti ; varovanje zaupnosti in zasebnosti3) oglaševanje ; pomembno na B2C, kjer se kupci in prodajalci ne poznajo. 4) podporne storitve ; plačilni sisitem, varnostni sistemi5) infrastruktura ; omrežja, za objavo, za prenos sporočil"

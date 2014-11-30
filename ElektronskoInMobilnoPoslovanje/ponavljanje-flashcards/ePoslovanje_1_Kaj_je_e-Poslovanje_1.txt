@@ -1,0 +1,23 @@
+Prejšni izraz za elektronsko poslovanje - EDI	EDI - Electronic Data Interchange (elektronska izmenjava podatkov)
+1. Kaj je e-Poslovanje?	"Način delovanj, organiziranja in sodelovanja organizacije.Podprto s dosežki informacijske in telekomunikacijske tehnologije."
+Elektronsko poslovanje - povezano s daljavo	Poslovanje na daljavo z uporabo informacijskih tehnologij
+Kdo je najbolj prispeval k razmahu ePoslovanja?	Internet
+ePoslovanje - kaj omogoča glede dostopa	omogoča dostop svojim in zunanjim v IS izven meje podjetja ali organizacije
+ePoslovanje - oblika poslovanja	Oblika, kjer stranke delujejo elektronsko, namesto da bi delovale fizično oz. bile v fizičnem stiku.
+ePoslovanje - kakšna izhodišča ponuja za prenovo IS? [7]	"- upravljalska- kadrovska- organizacijska- tehnična- poslovna- kurturna- strateška"
+Je ePoslovanje samo iterakcija med fizičnimi osebami	Ne, ni
+Kakšno znanje je potrebno obvladati in katere kompetence je potrebno razviti?	Področje prehoda podjetja v ePoslovanje
+Kaj ePoslovanje omogoča organizacijam? [5]	"- izboljšanje poslovnih rezultatov- celostna prenova poslovanja- minimizacija poslovnega tveganja- povečanje konkurenčne prednosti- izbira najbolj obetavne smeri razvoja"
+Ena glavnih posledic in značilnost ePoslovanja	širjenje mej IS preko meje poslovnih in organizacijskih sistemov
+Hype krivulja ePoslovanja - kje smo sedaj?	"v dobi ""donosnost"""
+EDI - kdaj in zakaj je zamrl [4]	"- že v 80.- predvsem med velikimi podjetji- drago- točno določen format za izmenjavo podatkov"
+Razlogi za uvedbo ePoslovanja [5]	"- znižanje stroškov poslovanja- znižanje obsega zalog- večja možnost za zvišanje kakovosti izdelkov in storitev- večja možnost za znižanje stroškov trženja in prodaje- večja možnost za nove tržne priložnosti"
+Razlika 20. in 21 stoletje	"20. - masovna serijska proizvodnja in masovna potrošnja21.- kupec dobi orodje, s katerim si izdelek ali storitev prilagodi po meri na specifične svoje zahteve"
+Push poslovni model	"Proizvajalec : izdela izdelek, serijska proizvodnja na podlagi planovGrosist : zaloga izdelkovMaloprodajni distibucijski center : zalogo izdelkovMaloprodajne trgovine : zaloga izdelkov in push kupcemKupci"
+Pull poslovni model	"Kupec : izvede naročiloProizvajalec ali maloprodaja : ima zalogo standardnih izdelkovProdajni nalog dobavitelju ali grosistuNaročilo proizvodnjiProizvajalec izdela izdelek in ga dostavi kupcu"
+Tradicionalni vs. ePoslovni model - 1.del [4]	"Tradicionalni - serijska proizvodnjaePoslovni model - izdelki prilagojeni strankiMajhna izbira izdelkov VS sodeluje pri ustvarjanju izdelkadolgi dobavni čas VS kratkinetočne dobave VS zanesljive dobaveVisoke varnostne zaloge VS majhen obseg zalog"
+Tradicionalni vs. ePoslovni model - 2.del [4]	"oskrbovalna veriga visoki stroški VS stroškovno učinkovitaPush VS pull proizvodnjaDolgi razvoj novega izdelka VS znatno skrajšanjeNezadovoljne VS zadovoljne stranke"
+Push poslovni model - lastnosti [5]	"- učinkovita proizvodnja, usmerjena v standardne delovne naloge- visoka optimizacija operacij v proizvodnji- velika količina gotovih izdelkov na koncu proizvodnje in na poti do stranke- potreba po alternativnih izdelkih, ki ponovno povzročajo proizvodnjo- ""nujni in prioritetni"" delovni nalogi v proizvodnji"
+Push poslovni model - slabosti [2]	"- visoka stopnja zalog, ki se lahko tudi ne prodajo- izredna naročila pomenijo ""motnjo"" ker gre za neelastično okolje"
+Pull poslovni model - lastnosti [3]	"- ni večjih zalog- ni popustov pri prodaji starih zalog- stranke plačajo pred proizvodnjo izdelka ali ob njej"
+Pull poslovni model - slabosti [1]	- občutljivost na kratkoročna nihanja potrošnje (veliko povpraševanje v kratkem roku - ne moremo ga zadostiti)
